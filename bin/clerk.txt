@@ -1,0 +1,82 @@
+Choose an operation:
+f - Finish running the program
+m - Display information about all meals
+s - Display information about all subscribers
+a - Update data when a subscriber adds meals
+r - Update data when a subscriber removes meals
+Meals:
+Meal: Chilli, Available Quantity: 6
+Meal: Curry, Available Quantity: 2
+Meal: Fish, Available Quantity: 6
+Meal: Lasagne, Available Quantity: 8
+Meal: MushroomStew, Available Quantity: 4
+Meal: Spaghetti, Available Quantity: 5
+Meal: Steak, Available Quantity: 11
+--------
+Choose an operation:
+f - Finish running the program
+m - Display information about all meals
+s - Display information about all subscribers
+a - Update data when a subscriber adds meals
+r - Update data when a subscriber removes meals
+Subscribers:
+Subscriber: Anna Jones
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Anna Smith
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Carl Smith
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Ted Smith
+Subscribed Meals:
+Meals:
+--------
+--------
+Choose an operation:
+f - Finish running the program
+m - Display information about all meals
+s - Display information about all subscribers
+a - Update data when a subscriber adds meals
+r - Update data when a subscriber removes meals
+Choose a subscriber:
+Subscribers:
+Subscriber: Anna Jones
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Anna Smith
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Carl Smith
+Subscribed Meals:
+Meals:
+--------
+Subscriber: Ted Smith
+Subscribed Meals:
+Meals:
+--------
+--------
+Enter the subscriber's last name: Choose a meal to add:
+Meals:
+Meal: Chilli, Available Quantity: 6
+Meal: Curry, Available Quantity: 2
+Meal: Fish, Available Quantity: 6
+Meal: Lasagne, Available Quantity: 8
+Meal: MushroomStew, Available Quantity: 4
+Meal: Spaghetti, Available Quantity: 5
+Meal: Steak, Available Quantity: 11
+--------
+Enter the name of the meal: Available quantity for Steak: 11
+Enter the quantity to add: Meals added to the subscription successfully.
+Choose an operation:
+f - Finish running the program
+m - Display information about all meals
+s - Display information about all subscribers
+a - Update data when a subscriber adds meals
+r - Update data when a subscriber removes meals

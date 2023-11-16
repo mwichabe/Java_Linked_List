@@ -1,0 +1,12 @@
+Dear Anna Jones,
+
+We regret to inform you that we couldn't add the requested quantity of Fish to your subscription. There are not enough meals available.
+
+Sincerely,
+ The FrozenFood Company
+Dear Anna Smith,
+
+We regret to inform you that we couldn't add the requested quantity of MushroomStew to your subscription. There are not enough meals available.
+
+Sincerely,
+ The FrozenFood Company
